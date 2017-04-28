@@ -1,0 +1,18 @@
+body { padding-top: 70px; }
+
+.new-post-button {
+  margin-bottom: 20px;
+}
+
+.post-categories {
+  display: inline-block;
+  float: right;
+}
+
+.alert {
+  display: inline-block;
+}
+
+.postsNewForm-cancel-button {
+  margin-left: 20px;
+}
